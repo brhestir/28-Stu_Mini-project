@@ -1,5 +1,14 @@
 {
   "dependencies": {
     "inquirer": "^7.3.3"
-  }
+  },
+  "name": "28-stu_mini-project",
+  "description": "In this activity, you will build a command-line tool that generates an HTML portfolio page from user input.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
 }
