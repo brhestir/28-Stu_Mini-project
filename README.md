@@ -25,7 +25,3 @@ It might be a good idea to start building out the HTML skeleton in a real HTML f
 ## 🏆 Bonus
 
 * Instead of using promises, how can we use `async/await` and `try/catch` to control the flow of our asynchronous code?
-
----
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
